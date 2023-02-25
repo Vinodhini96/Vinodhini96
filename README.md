@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning master Data Science 
 - 📫 How to reach me: Twitter-https://twitter.com/vinodhini_raj96 , 
-                       - email - avinodhini1996@gmail.com, 
                        - linkedIn - https://www.linkedin.com/in/vinodhini-rajamanickam
 <!--
 **Vinodhini96/Vinodhini96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
