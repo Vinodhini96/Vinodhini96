@@ -1,10 +1,13 @@
 ### Hello !! Vinodhini Rajamanickam here!!👋
 
-- 🌱 I’m currently learning master Data Science 
+- 🌱 I’m currently learning master Data Science from Guvi 
 - 📫 How to reach me: 
 -                      - Twitter :- https://twitter.com/vinodhini_raj96 , 
 - 
                        - linkedIn :- https://www.linkedin.com/in/vinodhini-rajamanickam
+
+
+ 😄 About me :  I love learning different things everyday!!
 <!--
 **Vinodhini96/Vinodhini96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
