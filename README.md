@@ -1,10 +1,30 @@
 ### Hello !! Vinodhini Rajamanickam here!!👋
 
-- 🌱 I’m currently learning master Data Science from Guvi 
+- 🌱 Educational Journey:
+  -  IITM Advaned programming professional and Master Data Science from Guvi Geek Networks.
+  -  BCA from Jaipur National University
+    
 - 📫 How to reach me: 
--                      - Twitter :- https://twitter.com/vinodhini_raj96 , 
-- 
-                       - linkedIn :- https://www.linkedin.com/in/vinodhini-rajamanickam
+
+  - 💼 [LinkedIn](https://www.linkedin.com/in/vinodhini-rajamanickam)
+  - 🐦 [Twitter](https://twitter.com/vinodhini_raj96)
+ 
+- skills :
+  - Data Science📊
+  - Machine Learning🧠
+  - Data Analysis
+  - Data Visualization📈
+  - Creativity: 🎨
+  - Teamwork: 🤝
+ 
+- Technologies:
+  - Python: 🐍
+  - MySQL: 📋
+  - MongoDB: 🍃
+  - Pandas: 🐼
+  - Matplotlib: 📊
+  - Seaborn: 🌊
+
 
 
  😄 About me :  I love learning something new everyday!!
