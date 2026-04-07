@@ -6,16 +6,19 @@
     
 - 📫 How to reach me: 
 
-  - 💼 [LinkedIn](https://www.linkedin.com/in/vinodhini-rajamanickam)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/vinodhini-vinie/)
   - 🐦 [Twitter](https://twitter.com/vinodhini_raj96)
  
 - skills :
-  - Data Science📊
-  - Machine Learning🧠
+  - Artificial Intelligence
+  - Data Science
+  - Deep Learning
+  - Machine Learning
   - Data Analysis
-  - Data Visualization📈
-  - Creativity: 🎨
-  - Teamwork: 🤝
+  - Data Visualization
+  - NLP
+  - Computer Vision
+  - Gen AI
  
 - Technologies:
   - Python: 🐍
