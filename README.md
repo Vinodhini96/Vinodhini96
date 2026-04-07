@@ -1,4 +1,7 @@
-### Hello !! Vinodhini Rajamanickam here!!👋
+### Hello !! Vinodhini here!!👋
+Data Scientist L&D at HCL GUVI
+
+
 
 - 🌱 Educational Journey:
   -  IITM Advaned programming professional and Master Data Science from Guvi Geek Networks.
@@ -21,12 +24,13 @@
   - Gen AI
  
 - Technologies:
-  - Python: 🐍
-  - MySQL: 📋
-  - MongoDB: 🍃
-  - Pandas: 🐼
-  - Matplotlib: 📊
-  - Seaborn: 🌊
+  - Python: 
+  - MySQL: 
+  - MongoDB: 
+  - Pandas: 
+  - Matplotlib: 
+  - Seaborn: 
+  - 
 
 
  😄 About me :  I love learning something new everyday!!
